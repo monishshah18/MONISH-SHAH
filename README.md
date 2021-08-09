@@ -1,13 +1,14 @@
 # Welcome 👋
 
-Hi, I'm <b>MONISH</b>. I have research interests in <b>Artificial Intelligence</b>, specifically in **Natural Language Processing**. Moreover, I play chess ♟️ and listen Piano 🎹 and other musical instruments.
+Hi, I'm <b>MONISH</b>. Software Developer with a Knack for **Problem solving**. My Passion is creating new, powerful ways to make the world hands free either through code or Machinery. I am always looking for **new challenges** to broaden my sight and reach my goals.
 
 ## Highlights
 
-- Research work in Speech Recognition domain. This work was **accepted** in **17th International Conference on Natural Language Processing organised by IIT Patna and NLPAI**.
-- Ex-Intern at Indian Space Research Organisation (**ISRO**). Performed Data Analysis and validation with global precipitation datasets.
-- Opensource contribution in **Pytorch**, **HuggingFace**, **Optuna** and **Pandas**
-- Completed **B. Tech.** in **Computer Engineering** from **Dharmsinh Desai University, Nadiad**.
+- Currently, Pursuing **Master's of Science in Computer Science** from  **University of Texas at Dallas**.
+- Currently, Working as System Analyst at **OIT, University of Texas at Dallas**. 
+- Ex-Software Engineer at Crest Data Systems. Worked on Cutting Edge Technologies like Splunk, pytest, React JS, GraphQL, python.
+- Architected and Developed Automated **Open-Source Tool** pytest-splunk-addon which validates 75% features of Splunk Add-ons.
+- Completed **B. Tech.** in **Information Technology** from **Dharmsinh Desai University, Nadiad**.
 
 **Stats**
 
