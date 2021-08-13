@@ -6,7 +6,7 @@ Hi, I'm <b>MONISH</b>. Software Developer with a Knack for **Problem solving**. 
 
 - Currently, Pursuing **Master's of Science in Computer Science** from  **University of Texas at Dallas**.
 - Currently, Working as System Analyst at **OIT, University of Texas at Dallas**. 
-- Ex-Software Engineer at Crest Data Systems. Worked on Cutting Edge Technologies like Splunk, pytest, React JS, GraphQL, python.
+- Ex-Software Engineer at **Crest Data Systems**. Worked on Cutting Edge Technologies like **Splunk, pytest, React JS, GraphQL, python**.
 - Architected and Developed Automated **Open-Source Tool** pytest-splunk-addon which validates 75% features of Splunk Add-ons.
 - Completed **B. Tech.** in **Information Technology** from **Dharmsinh Desai University, Nadiad**.
 
